@@ -1,0 +1,23 @@
+{
+    // open json editor for settings
+    "workbench.settings.editor": "json",
+    // Font size
+    "editor.fontSize": 14,
+    "editor.lineNumbers": "relative",
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "aws.telemetry": false,
+    "amazonQ.telemetry": false,
+    // ui
+    "editor.minimap.enabled": false,
+    "window.commandCenter": false,
+    //Neovim
+    "extensions.experimental.affinity": {
+        "asvetliakov.vscode-neovim": 1
+    },
+    "workbench.colorTheme": "Xcode Classic (Dark)",
+    //python
+    "python.testing.pytestEnabled": true,
+    "python.testing.unittestEnabled": true,
+    "python.testing.autoTestDiscoverOnSaveEnabled": true
+}
